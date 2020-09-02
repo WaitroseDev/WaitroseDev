@@ -1,4 +1,4 @@
-![header image](https://pbs.twimg.com/profile_banners/1241307697426976769/1591972439/1500x500)
+![header image](https://i.imgur.com/WIaV0FE.png)
 
 ### About Me
 
