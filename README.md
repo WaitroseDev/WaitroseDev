@@ -7,4 +7,7 @@
 
 <img align="left" alt="WaitroseDev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=WaitroseDev&show_icons=true&hide_border=true"/>
 
-[Main Site][https://waitrose.wtf]
+### Web Presence
+
+- [Main Site](https://waitrose.wtf)
+- [Twitter](https://twitter.com/WaitroseMgmt)
