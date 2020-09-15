@@ -8,6 +8,7 @@
 - :bulb: I'm proficient in Javascript
 - 📫 How to reach me: 
   - You can reach me on Discord at waitrose#0001
+  - Create a ticket in the [Charged Development Discord](https://discord.gg/kDmqBKz)
 
 ---
 
