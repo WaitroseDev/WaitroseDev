@@ -10,3 +10,4 @@
 - 🌱 I’m currently learning Cloudflare Workers
 - 📫 How to reach me: 
   - You can reach me on Discord at waitrose#0001
+  - You can also [contact me by email](mailto:waitrose@amirion.org)
