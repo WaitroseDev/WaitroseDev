@@ -1,8 +1,5 @@
 ![header image](https://i.imgur.com/WIaV0FE.png)
 
-![WaitroseDev's github stats](https://github-readme-stats.vercel.app/api?username=WaitroseDev)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WaitroseDev)](https://github.com/WaitroseDev/github-readme-stats)
-
 
 ### About Me
 
