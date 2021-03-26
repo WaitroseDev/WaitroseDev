@@ -2,7 +2,7 @@
     <img src="assets/header.png">
 </p>
 
-<h2 align=center>Hey <img src="assets/wave.gif" width="25px">, I'm Waitrose</h2>
+<h2 align=center>Hey <img src="assets/wave.gif" width="25px">, I'm Behn</h2>
 
 
 <p align="center">
@@ -19,6 +19,5 @@
 ### 📈 Take a look at some of my stats...
 <br>
 <p align="center">
-    <img src="scripts/GithubStats/generated/overview.svg">
     <img src="scripts/GithubStats/generated/languages.svg">
 </p>
