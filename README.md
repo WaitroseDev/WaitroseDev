@@ -1,7 +1,3 @@
-<p align="center">
-    <img src="assets/header.png">
-</p>
-
 <h2 align=center>Hey <img src="assets/wave.gif" width="25px">, I'm Behn</h2>
 
 
